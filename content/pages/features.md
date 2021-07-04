@@ -4,6 +4,13 @@ sections:
   - type: hero_section
     align: center
     title: Services
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
   - type: features_section
     features:
       - title: Feature 1
