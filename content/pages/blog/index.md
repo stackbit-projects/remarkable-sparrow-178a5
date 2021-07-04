@@ -1,8 +1,6 @@
 ---
 title: Blog
-sections:
-  - type: blog_feed_section
-    show_recent: false
+sections: []
 seo:
   title: Blog
   description: This is the blog page
